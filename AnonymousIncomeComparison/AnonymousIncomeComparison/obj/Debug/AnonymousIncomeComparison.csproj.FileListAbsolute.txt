@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe.config
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.pdb
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.exe
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.pdb
