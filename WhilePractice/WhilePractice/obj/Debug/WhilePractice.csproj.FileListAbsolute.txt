@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\bin\Debug\WhilePractice.exe.config
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\bin\Debug\WhilePractice.exe
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\bin\Debug\WhilePractice.pdb
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\obj\Debug\WhilePractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\obj\Debug\WhilePractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\obj\Debug\WhilePractice.exe
+C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\WhilePractice\WhilePractice\obj\Debug\WhilePractice.pdb
