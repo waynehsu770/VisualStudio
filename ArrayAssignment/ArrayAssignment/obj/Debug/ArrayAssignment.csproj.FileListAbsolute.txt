@@ -5,3 +5,10 @@ C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignmen
 C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
 C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
 C:\Users\wayne\OneDrive\Desktop\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb

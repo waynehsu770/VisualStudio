@@ -16,8 +16,13 @@ namespace ArrayAssignment
             if (names_choice > 5 || names_choice < 0)
             {
                 Console.WriteLine("Invalid choice, application stopping. Please restart and enter a number between 0 and 5."); // If statement that runs if the user input is outside of 0-5
+                Console.Read();
+                System.Environment.Exit(0);
+            } else
+            {
+                Console.WriteLine(names[names_choice]);
             }
-            Console.WriteLine(names[names_choice]);
+            
             
 
             int[] lottery = new int[] { 2, 72, 23, 81, 12, 32, 44, 9, 68 };
@@ -26,8 +31,13 @@ namespace ArrayAssignment
             if (lottery_choice > 8 || lottery_choice < 0)
             {
                 Console.WriteLine("Invalid choice, application stopping. Please restart and enter a number between 0 and 8."); // If statement that runs if the user input is outside of 0-8
+                Console.Read();
+                System.Environment.Exit(0);
+            } else
+            {
+                Console.WriteLine(lottery[lottery_choice]);
             }
-            Console.WriteLine(lottery[lottery_choice]);
+           
             
             List<string> nameList = new List<string>();
             nameList.Add("Michael");
@@ -39,8 +49,13 @@ namespace ArrayAssignment
             if (nameList_choice > 3 || nameList_choice < 0)
             {
                 Console.WriteLine("Invalid choice, application stopping. Please restart and enter a number between 0 and 3."); // If statement that runs if the user input is outside of 0-3
+                Console.Read();
+                System.Environment.Exit(0);
+            } else
+            {
+                Console.WriteLine(nameList[nameList_choice]);
             }
-            Console.WriteLine(nameList[nameList_choice]);
+            
 
 
             Console.Read();
