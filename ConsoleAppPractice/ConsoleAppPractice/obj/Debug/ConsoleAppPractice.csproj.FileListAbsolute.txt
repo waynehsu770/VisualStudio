@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.pdb
