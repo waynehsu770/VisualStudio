@@ -1,0 +1,14 @@
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.exe.config
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.exe
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.pdb
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.exe
+C:\Users\wayne\source\repos\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\bin\Debug\VoidMethodPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\VoidMethodPractice\VoidMethodPractice\obj\Debug\VoidMethodPractice.pdb
