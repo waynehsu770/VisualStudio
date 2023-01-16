@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
