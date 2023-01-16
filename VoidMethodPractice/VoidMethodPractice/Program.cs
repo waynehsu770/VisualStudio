@@ -11,7 +11,8 @@ namespace VoidMethodPractice
         static void Main(string[] args)
         {
             Math math = new Math(); // Instantiate the class
-            math.multiplication(a: 4, b: 7); // Call the method, can specify parameters by name or not
+            math.multiplication(2, 5);
+            math.multiplication(a: 4, b: 7); // Call the method and specify the name of the parameters
 
             Console.ReadLine();
         }
