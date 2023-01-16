@@ -61,6 +61,7 @@ namespace ConsoleAppPractice
                 {
                     Console.WriteLine("The index of your input is: " + m);
                     meat_match = true;
+                    break;
                 }
             }
             if (meat_match == false) // if user input is not on the list
