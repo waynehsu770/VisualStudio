@@ -10,9 +10,11 @@ namespace ClassPractice
     {
         public static void Main(string[] args)
         {
-            Math math = new Math();
+            Math math = new Math(); // Creates new object of math class
             Console.WriteLine("Please enter a number: ");
             int user_input = Convert.ToInt32(Console.ReadLine());
+
+            // Calls on each method
             int answer_1 = math.multiplication(user_input);
             int answer_2 = math.division(user_input);
             int answer_3 = math.addition(user_input);
