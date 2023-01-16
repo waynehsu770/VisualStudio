@@ -93,15 +93,17 @@ namespace ConsoleAppPractice
 
             // string list with identical strings foreach loop
             List<string> fruits = new List<string>() { "pear", "orange", "apple", "cherry", "apple", "banana" };
-            IEnumerable<string> new_fruits = fruits.GroupBy(f => f).SelectMany(g => g.Skip(1));
+            List<string> duplicate = new List<string>();
             foreach (string fruit in fruits)
             {
-                if (new_fruits.Contains(fruit))
+                if (duplicate.Contains(fruit))
                 {
                     Console.WriteLine(fruit + " - this item is a duplicate.");
-                } else
+                }
+                else
                 {
                     Console.WriteLine(fruit + " - this item is unique.");
+                    duplicate.Add(fruit);
                 }
             }
 
