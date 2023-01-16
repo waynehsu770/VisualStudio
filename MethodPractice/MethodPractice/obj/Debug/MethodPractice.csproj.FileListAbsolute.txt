@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\bin\Debug\MethodPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\obj\Debug\MethodPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodPractice\MethodPractice\obj\Debug\MethodPractice.pdb
