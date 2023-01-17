@@ -10,7 +10,8 @@ namespace VoidMethodPractice
     {
         public void multiplication(int a, int b)
         {
-            Console.WriteLine(a + " times " + b + " equals: " + (a * b));
+            int answer = a * 2;
+            Console.WriteLine(b);
         }
     }
 }
