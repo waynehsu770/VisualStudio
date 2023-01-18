@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
