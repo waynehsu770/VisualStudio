@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\obj\Debug\OperatorsPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\obj\Debug\OperatorsPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\bin\Debug\OperatorsPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\bin\Debug\OperatorsPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\bin\Debug\OperatorsPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\obj\Debug\OperatorsPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\OperatorsPractice\OperatorsPractice\obj\Debug\OperatorsPractice.pdb
