@@ -14,7 +14,11 @@ namespace AbstractClass
             sample.firstName = "Sample";
             sample.lastName = "Student";
             sample.SayName();
-            sample.Quit();
+
+            IQuittable practice = new Employee();
+            practice.Quit();
+
+
             Console.ReadLine();
         }
     }
