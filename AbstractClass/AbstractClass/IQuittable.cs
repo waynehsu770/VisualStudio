@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public class Employee : Person, IQuittable
+    interface IQuittable
     {
-        public void Quit()
-        {
-            Console.WriteLine("Quit");
-        }
+        void Quit();
     }
 }

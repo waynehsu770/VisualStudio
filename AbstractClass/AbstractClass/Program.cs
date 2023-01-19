@@ -14,7 +14,7 @@ namespace AbstractClass
             sample.firstName = "Sample";
             sample.lastName = "Student";
             sample.SayName();
-
+            sample.Quit();
             Console.ReadLine();
         }
     }

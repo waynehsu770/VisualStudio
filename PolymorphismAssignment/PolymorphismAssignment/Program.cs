@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClass
+namespace PolymorphismAssignment
 {
-    public class Employee : Person, IQuittable
+    class Program
     {
-        public void Quit()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Quit");
         }
     }
 }
