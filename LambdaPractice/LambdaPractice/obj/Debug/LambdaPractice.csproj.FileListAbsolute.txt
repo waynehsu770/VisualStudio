@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb
