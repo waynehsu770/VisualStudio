@@ -84,6 +84,7 @@ namespace LambdaPractice
 
             List<Employee> duplicate_list = new List<Employee>();
 
+            // Foreach loop to find employees with Joe first names
             foreach (Employee employee in employee_list)
             {
                 if (employee.FirstName == "Joe")
@@ -100,6 +101,7 @@ namespace LambdaPractice
 
             Console.WriteLine("Duplicate First Name Employees Using Lambda: \r\n");
 
+            // Lambda expression to find employees with Joe first names
             List<Employee> firstname_list = employee_list.Where(y => y.FirstName == "Joe").ToList();
 
             foreach (Employee employee in firstname_list)
@@ -110,7 +112,7 @@ namespace LambdaPractice
 
             Console.WriteLine("Employees with Id greater than 5: \r\n");
 
-            List<Employee> Id_list = employee_list.Where(x => x.Id > 5).ToList();
+            List<Employee> Id_list = employee_list.Where(x => x.Id > 5).ToList(); // Lambda expression to find employees with Id > 5
 
             foreach(Employee employee in Id_list)
             {
