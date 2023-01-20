@@ -15,9 +15,9 @@ namespace OperatorsPractice
             Employee_1.LastName = "Johnson";
             Employee_1.Id = 1;
             Employee Employee_2 = new Employee();
-            Employee_1.FirstName = "Jessica";
-            Employee_1.LastName = "Haze";
-            Employee_1.Id = 2;
+            Employee_2.FirstName = "Jessica";
+            Employee_2.LastName = "Haze";
+            Employee_2.Id = 2;
 
             Console.WriteLine(Employee_1 == Employee_2);
             Console.WriteLine(Employee_1 != Employee_2); 
