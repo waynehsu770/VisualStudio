@@ -1,0 +1,7 @@
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\bin\Debug\DateTimePractice.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.csproj.AssemblyReference.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\DateTimePractice\DateTimePractice\obj\Debug\DateTimePractice.pdb
