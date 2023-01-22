@@ -1,2 +1,10 @@
 C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\wayne\OneDrive\Documents\GitHub\VisualStudio\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

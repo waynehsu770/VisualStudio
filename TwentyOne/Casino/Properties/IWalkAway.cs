@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
-{
+namespace Casino.Interfaces
+{ 
     interface IWalkAway
     {
+        void WalkAway(Player player);
     }
 }
