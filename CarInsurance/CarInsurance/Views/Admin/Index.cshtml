@@ -1,30 +1,40 @@
 ﻿@using CarInsurance.Models
 @model List<Insuree>
 
-<div class="row no-gutters m-3">
-    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
-        <div class="card-header text-center">
-            <h3 class="m-0">Insurees</h3>
-        </div>
-        <div class="card-body">
-            @foreach (var insuree in Model)
-            { 
-                <input type="hidden" name="Id" value="@insuree.Id" />
-                <div class="row">
-                    <div class="co-sm">
-                        First Name: @insuree.FirstName
-                    </div>
-                    <div class="col-sm">
-                        Last Name: @insuree.LastName
-                    </div>
-                    <div class="col-sm">
-                        Email Address: @insuree.EmailAddress
-                    </div>
-                    <div class="col-sm">
-                        Quote: @insuree.Quote
-                    </div>
-                </div>
-            }
-        </div>
-    </div>
-</div>
+<h2>Insurees</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            First Name:
+        </th>
+        <th>
+            Last Name:
+        </th>
+        <th>
+            Email Address: 
+        </th>
+        <th>
+            Quote: 
+        <th></th>
+    </tr>
+
+    @foreach (var insuree in Model)
+    {
+        <tr>
+            <th>
+                @insuree.FirstName
+            </th>
+            <th>
+                @insuree.LastName
+            </th>
+            <th>
+                @insuree.EmailAddress
+            </th>
+            <th>
+                $@insuree.Quote
+            </th>
+            <th></th>
+        </tr>
+    }
+</table>

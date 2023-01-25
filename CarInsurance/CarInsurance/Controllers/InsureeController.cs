@@ -50,6 +50,58 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                decimal base_quote = insuree.Quote;
+                base_quote = 50;
+                int user_year = (insuree.DateOfBirth).Year;
+                int this_year = (DateTime.Today).Year;
+
+
+                if ((this_year - user_year) <= 18)
+                {
+                    base_quote += 100;
+                }
+                else if ((this_year - user_year) >= 19 && (this_year - user_year) <= 25)
+                {
+                    base_quote += 50;
+                }
+                else if ((this_year - user_year) >= 26)
+                {
+                    base_quote += 25;
+                }
+
+                if (insuree.CarYear < 2000)
+                {
+                    base_quote += 25;
+                }
+                else if (insuree.CarYear > 2015)
+                {
+                    base_quote += 25;
+                }
+
+                if (insuree.CarMake == "Porsche")
+                {
+                    base_quote += 25;
+                }
+
+                if (insuree.CarModel == "911 Carrera")
+                {
+                    base_quote += 25;
+                }
+
+                base_quote += (10 * insuree.SpeedingTickets);
+
+                if (insuree.DUI)
+                {
+                    base_quote += base_quote * 25 / 100;
+                }
+
+                if (insuree.CoverageType)
+                {
+                    base_quote += base_quote * 50 / 100;
+                }
+
+                insuree.Quote = base_quote;
+
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -122,62 +174,6 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
-        }
-
-        public ActionResult Quote()
-        {
-            Insuree insuree = new Insuree();
-            decimal base_quote = insuree.Quote;
-            base_quote = 50;
-            int user_year = (insuree.DateOfBirth).Year;
-            int this_year = (DateTime.Today).Year;
-
-
-            if ((this_year - user_year) <= 18)
-            {
-                base_quote += 100;
-            }
-            else if ((this_year - user_year) >= 19 && (this_year - user_year) <= 25)
-            {
-                base_quote += 50;
-            }
-            else if ((this_year - user_year) >= 26)
-            {
-                base_quote += 25;
-            }
-
-            if (insuree.CarYear < 2000)
-            {
-                base_quote += 25;
-            } 
-            else if (insuree.CarYear > 2015)
-            {
-                base_quote += 25;
-            }
-
-            if (insuree.CarMake == "Porsche")
-            {
-                base_quote += 25;
-            }
-
-            if (insuree.CarModel == "911 Carrera")
-            {
-                base_quote += 25;
-            }
-
-            base_quote += (10 * insuree.SpeedingTickets);
-            
-            if (insuree.DUI)
-            {
-                base_quote += base_quote * 25 / 100;
-            }
-
-            if (insuree.CoverageType)
-            {
-                base_quote += base_quote * 50 / 100;
-            }
-
-            return View(insuree);
         }
     }
 }
