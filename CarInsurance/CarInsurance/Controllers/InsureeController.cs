@@ -123,5 +123,54 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public ActionResult Quote()
+        {
+            Insuree insuree = new Insuree();
+            int base_quote = 50;
+            if ((DateTime.Now - insuree.DateOfBirth) <= 18)
+            {
+                base_quote += 100;
+            }
+            else if ((DateTime.Now - insuree.DateOfBirth) >= 19 && (DateTime.Now - insuree.DateOfBirth) <= 25)
+            {
+                base_quote += 50;
+            }
+            else if ((DateTime.Now - insuree.DateOfBirth) >= 26)
+            {
+                base_quote += 25;
+            }
+
+            if (insuree.CarYear < 2000)
+            {
+                base_quote += 25;
+            } 
+            else if (insuree.CarYear > 2015)
+            {
+                base_quote += 25;
+            }
+
+            if (insuree.CarMake == "Porsche")
+            {
+                base_quote += 25;
+            }
+
+            if (insuree.CarModel == "911 Carrera")
+            {
+                base_quote += 25;
+            }
+
+            base_quote += (10 * insuree.SpeedingTickets);
+            
+            if (insuree.DUI)
+            {
+                base_quote += base_quote * 25 / 100;
+            }
+
+            if (insuree.CoverageType)
+            {
+                base_quote += base_quote * 50 / 100;
+            }
+        }
     }
 }
