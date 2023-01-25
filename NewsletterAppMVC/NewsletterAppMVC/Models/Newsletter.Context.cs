@@ -22,6 +22,7 @@ namespace NewsletterAppMVC.Models
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<SignUp>().ToTable("SignUp");
             throw new UnintentionalCodeFirstException();
         }
     
