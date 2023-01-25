@@ -127,16 +127,21 @@ namespace CarInsurance.Controllers
         public ActionResult Quote()
         {
             Insuree insuree = new Insuree();
-            int base_quote = 50;
-            if ((DateTime.Now - insuree.DateOfBirth) <= 18)
+            decimal base_quote = insuree.Quote;
+            base_quote = 50;
+            int user_year = (insuree.DateOfBirth).Year;
+            int this_year = (DateTime.Today).Year;
+
+
+            if ((this_year - user_year) <= 18)
             {
                 base_quote += 100;
             }
-            else if ((DateTime.Now - insuree.DateOfBirth) >= 19 && (DateTime.Now - insuree.DateOfBirth) <= 25)
+            else if ((this_year - user_year) >= 19 && (this_year - user_year) <= 25)
             {
                 base_quote += 50;
             }
-            else if ((DateTime.Now - insuree.DateOfBirth) >= 26)
+            else if ((this_year - user_year) >= 26)
             {
                 base_quote += 25;
             }
@@ -171,6 +176,8 @@ namespace CarInsurance.Controllers
             {
                 base_quote += base_quote * 50 / 100;
             }
+
+            return View(insuree);
         }
     }
 }
